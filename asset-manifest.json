@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MBAChaiWala/static/css/main.59a2462d.css",
+    "main.js": "/MBAChaiWala/static/js/main.c2114353.js",
+    "static/media/mba-cares.gif": "/MBAChaiWala/static/media/mba-cares.0e7967ce5444007f585c.gif",
+    "static/media/in-the-news.gif": "/MBAChaiWala/static/media/in-the-news.347f1f83f5661fa4e13d.gif",
+    "static/media/MBA Chai Wala.mp4": "/MBAChaiWala/static/media/MBA Chai Wala.c9ea61deb6dbc07142a5.mp4",
+    "static/media/franchise.gif": "/MBAChaiWala/static/media/franchise.6c87121d239567735501.gif",
+    "static/media/image2.png": "/MBAChaiWala/static/media/image2.df554299b5ddb4bc9987.png",
+    "static/media/image3.png": "/MBAChaiWala/static/media/image3.61232eb3897e4073fa7c.png",
+    "static/media/image1.png": "/MBAChaiWala/static/media/image1.faf3d9c223c26e308829.png",
+    "static/media/academy.png": "/MBAChaiWala/static/media/academy.1804ca3c2bc2cc44cf7f.png",
+    "static/media/locations.png": "/MBAChaiWala/static/media/locations.883c6acd593d61fe837c.png",
+    "static/media/story.png": "/MBAChaiWala/static/media/story.48b746ab4d54baa2f315.png",
+    "static/media/logo.png": "/MBAChaiWala/static/media/logo.a651a2a80dae2eff52f8.png",
+    "index.html": "/MBAChaiWala/index.html",
+    "main.59a2462d.css.map": "/MBAChaiWala/static/css/main.59a2462d.css.map",
+    "main.c2114353.js.map": "/MBAChaiWala/static/js/main.c2114353.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59a2462d.css",
+    "static/js/main.c2114353.js"
+  ]
+}
